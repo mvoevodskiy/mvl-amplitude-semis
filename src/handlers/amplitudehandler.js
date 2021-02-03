@@ -1,6 +1,6 @@
 const { MVLoaderBase } = require('mvloader')
 
-class MVLBlankHandler extends MVLoaderBase {
+class Amplitudehandler extends MVLoaderBase {
   constructor (App, ...config) {
     const localDefaults = {}
     super(localDefaults, ...config)
@@ -16,4 +16,4 @@ class MVLBlankHandler extends MVLoaderBase {
   }
 }
 
-module.exports = MVLBlankHandler
+module.exports = Amplitudehandler

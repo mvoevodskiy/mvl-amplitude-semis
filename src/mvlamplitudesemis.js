@@ -1,6 +1,6 @@
 const { MVLoaderBase } = require('mvloader')
 
-class MVLBlankSemis extends MVLoaderBase {
+class mvlAmplitudeSemis extends MVLoaderBase {
   constructor (App, ...config) {
     const localDefaults = {}
     super(localDefaults, ...config)
@@ -39,4 +39,4 @@ MVLoaderBase.exportConfig = {
   db: {}
 }
 
-module.exports = MVLBlankSemis
+module.exports = mvlAmplitudeSemis

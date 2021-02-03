@@ -1,8 +1,8 @@
 {
-  "name": "mvl-blank-project",
+  "name": "mvl-amplitude-semis",
   "version": "0.0.1",
   "description": "",
-  "main": "src/mvlblankproject.js",
+  "main": "src/mvlamplitudesemis.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
