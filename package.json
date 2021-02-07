@@ -7,9 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@amplitude/node": "^1.3.2",
+    "botcms": "^1.1.0-alpha.8",
+    "iso-639-1": "^2.1.7",
+    "mvl-db-handler": "^1.0.6",
     "mvloader": "^1.0.7",
-    "mvtools": "^1.0.18",
-    "mvl-db-handler": "^1.0.6"
+    "mvtools": "^1.0.18"
   },
   "devDependencies": {},
   "author": "mvoevodskiy",
